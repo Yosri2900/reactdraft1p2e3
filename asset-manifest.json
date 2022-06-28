@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactdraft1p2e3/static/css/main.6f6a7e28.css",
+    "main.js": "/reactdraft1p2e3/static/js/main.1253e130.js",
+    "index.html": "/reactdraft1p2e3/index.html",
+    "main.6f6a7e28.css.map": "/reactdraft1p2e3/static/css/main.6f6a7e28.css.map",
+    "main.1253e130.js.map": "/reactdraft1p2e3/static/js/main.1253e130.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f6a7e28.css",
+    "static/js/main.1253e130.js"
+  ]
+}
